@@ -1,0 +1,9 @@
+1. Si elige la opción 1 "Ejecutar jade":
+	Se ejecutará el comando: java jade.Boot -gui
+	
+2. Si elige la opción 2 "Ejecutar agente"
+	Debe indicar si el archivo .java está dentro de una carpeta
+	Si es así escriba "y" y presione "Enter"
+	
+	Si NO está dentro de una carpeta, escriba "n" y presione "Enter"		
+	
